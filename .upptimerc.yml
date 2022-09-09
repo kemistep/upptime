@@ -10,7 +10,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: https://bigdata.ministep.cn/
   # baseUrl: /your-repo-name
   logoUrl: https://bigdata.ministep.cn/wp-content/uploads/2022/07/atl.site-1.png
   name: 点悟大数据
