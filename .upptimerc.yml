@@ -4,21 +4,21 @@ repo: upptime_site # The name of this repository
 
 sites:
   - name: 点悟大数据
-    url: https://bigdata.ministep.cn/
+    url: bigdata.ministep.cn/
 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: https://bigdata.ministep.cn/
+  cname: bigdata.ministep.cn/
   # baseUrl: /your-repo-name
-  logoUrl: https://bigdata.ministep.cn/wp-content/uploads/2022/07/atl.site-1.png
+  logoUrl: bigdata.ministep.cn/wp-content/uploads/2022/07/atl.site-1.png
   name: 点悟大数据
   introTitle: "点悟大数据"
   introMessage: 点悟大数据
   navbar:
     - title: 点悟大数据新闻联播
-      href: https://bigdata.ministep.cn/category/xwlb/
+      href: bigdata.ministep.cn/category/xwlb/
 workflowSchedule: 
   graphs: "0 0 * * *" 
   responseTime: "0 23 * * *" 
