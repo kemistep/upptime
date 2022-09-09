@@ -1,20 +1,20 @@
 [
   {
-    "name": "点悟大数据",
+    "name": "bigdata",
     "url": "bigdata.ministep.cn/",
     "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "",
+    "slug": "bigdata",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4096,
-    "timeDay": 4096,
-    "timeWeek": 4096,
-    "timeMonth": 4096,
-    "timeYear": 4096,
+    "time": 2721,
+    "timeDay": 2721,
+    "timeWeek": 2721,
+    "timeMonth": 2721,
+    "timeYear": 2721,
     "dailyMinutesDown": {}
   }
 ]
