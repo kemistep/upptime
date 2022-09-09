@@ -12,13 +12,13 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: bigdata.ministep.cn/
   # baseUrl: /your-repo-name
-  logoUrl: bigdata.ministep.cn/wp-content/uploads/2022/07/atl.site-1.png
+  logoUrl: https://bigdata.ministep.cn/wp-content/uploads/2022/07/atl.site-1.png
   name: 点悟大数据
   introTitle: "点悟大数据"
   introMessage: 点悟大数据
   navbar:
     - title: 点悟大数据新闻联播
-      href: bigdata.ministep.cn/category/xwlb/
+      href: https://bigdata.ministep.cn/category/xwlb/
 workflowSchedule: 
   graphs: "0 0 * * *" 
   responseTime: "0 23 * * *" 
