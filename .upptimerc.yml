@@ -4,7 +4,7 @@ repo: upptime_site # The name of this repository
 
 sites:
   - name: bigdata
-    url: bigdata.ministep.cn/
+    url: https://bigdata.ministep.cn/
 
 
 status-website:
