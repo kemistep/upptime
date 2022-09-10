@@ -1,8 +1,8 @@
 [
   {
     "name": "bigdata",
-    "url": "bigdata.ministep.cn/",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "url": "https://bigdata.ministep.cn/",
+    "icon": "https://favicons.githubusercontent.com/bigdata.ministep.cn",
     "slug": "bigdata",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2491,
-    "timeDay": 2491,
-    "timeWeek": 2491,
-    "timeMonth": 2491,
-    "timeYear": 2491,
+    "time": 2097,
+    "timeDay": 2097,
+    "timeWeek": 2097,
+    "timeMonth": 2097,
+    "timeYear": 2097,
     "dailyMinutesDown": {}
   }
 ]
