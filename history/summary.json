@@ -4,7 +4,7 @@
     "url": "https://bigdata.ministep.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/bigdata.ministep.cn.ico",
     "slug": "bigdata",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2576,
     "timeYear": 2919,
     "dailyMinutesDown": {
+      "2023-12-31": 0,
       "2023-11-25": 57,
       "2023-11-02": 27,
       "2023-10-30": 200,
