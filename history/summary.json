@@ -6,15 +6,15 @@
     "slug": "bigdata",
     "status": "up",
     "uptime": "98.70%",
-    "uptimeDay": "96.63%",
-    "uptimeWeek": "84.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "85.04%",
     "uptimeMonth": "93.46%",
     "uptimeYear": "98.11%",
-    "time": 7236,
-    "timeDay": 14410,
-    "timeWeek": 14290,
-    "timeMonth": 13196,
-    "timeYear": 7822,
+    "time": 7238,
+    "timeDay": 2639,
+    "timeWeek": 13277,
+    "timeMonth": 13202,
+    "timeYear": 7823,
     "dailyMinutesDown": {
       "2024-03-22": 59,
       "2024-03-21": 430,
@@ -65,8 +65,7 @@
       "2023-04-17": 351,
       "2023-04-14": 238,
       "2023-04-03": 56,
-      "2023-03-30": 34,
-      "2023-03-25": 17
+      "2023-03-30": 34
     }
   }
 ]
