@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bigdata.ministep.cn.ico",
     "slug": "bigdata",
     "status": "down",
-    "uptime": "73.89%",
+    "uptime": "73.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "33.55%",
+    "uptimeYear": "33.54%",
     "time": 3180,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1107,
+    "timeMonth": 1121,
     "timeYear": 1651,
     "dailyMinutesDown": {
-      "2025-04-22": 67,
+      "2025-04-23": 68,
+      "2025-04-22": 1440,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
@@ -261,8 +262,7 @@
       "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
-      "2024-04-24": 1440,
-      "2024-04-23": 1440
+      "2024-04-24": 1440
     }
   }
 ]
